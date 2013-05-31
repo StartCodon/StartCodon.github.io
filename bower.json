@@ -9,7 +9,7 @@
     "angular-cookies": "~1.0.5",
     "angular-sanitize": "~1.0.5",
     "Flat-UI": "git://github.com/designmodo/Flat-UI.git",
-    "Font-Awesome": "git://github.com/FortAwesome/Font-Awesome.git#~3.1.1"
+    "font-awesome-build": "git://github.com/stanley-gu/font-awesome-build.git"
   },
   "devDependencies": {
     "angular-mocks": "~1.0.5",
