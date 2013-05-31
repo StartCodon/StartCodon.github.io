@@ -1,3 +1,6 @@
+body {
+	min-width: 1024px;
+}
 .blue {
     color : #268bd2;
 }
